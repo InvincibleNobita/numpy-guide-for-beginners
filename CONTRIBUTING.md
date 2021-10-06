@@ -10,7 +10,7 @@ For contributing to this repo please follow these steps:
 Also if somehow you dont have jupyter notebook installed(or foor that sake any software to run .ipynb files), then here's the link to my online public notebook hosted on kaggle:
 
 
-[notebook](https://www.kaggle.com/invincibleprince/a-guide-to-numpy)
+[Notebook- A guide to Numpy](https://www.kaggle.com/invincibleprince/a-guide-to-numpy)
 
 
 You can the edit the notebook from there and download it locally and replace it with current version(or better surf the internet)
