@@ -4,7 +4,7 @@
 A repo with few basic numpy functions for absolute beginners.
 
 
-This is a beginner friendly repo and to make a pr to this repo refer to contributing.md file.
+This is a beginner friendly repo and to make a PR to this repo refer to `CONTRIBUTING.md` file.
 
 
 ## Functions explained in this repo
@@ -22,3 +22,6 @@ This is a beginner friendly repo and to make a pr to this repo refer to contribu
 Keep Coding, Keep contributing to open source.
 
 Thank You.
+
+P.S.: 
+> This repo was also there for Hacktoberfest '20 but thanks to my ~~marketing skills~~ it didnt received even a single PR.
